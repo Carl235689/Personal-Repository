@@ -1,3 +1,11 @@
+*.class
+# IDE folders
+.vscode/
+.idea/
+
+# Build folders
+target/
+bin/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
